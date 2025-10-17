@@ -30,12 +30,7 @@
   - Eru einhverjar reglur eða takmarkanir sem kerfið verður að virða (t.d. lagalegar kröfur, viðskiptareglur)?
 
 ## Líkön til að kveikja umræðu, skjöl og kerfi 
-- Búðu til einföld drög (t.d. flæði ferla, notkunartilvik, grófar skjámyndir) til að kveikja umræðu. 
-- Má t.d. vera mynd(ir) 
-- Ef þú vilt skoða núverandi kerfi með viðskiptakerfi vertu búin að undirbúa það 
-- Stjórnandi: …
-- Ritari: …
-- Viðskiptavinir/hagsmunaaðilar: …
+Ég notaði einnig word skjal með spurningunum sem eru fyrir ofan í **Aðferð kröfusöfnunar** til þess að kveikja á umræðu. Svo spurði ég einnig spurningar sem kom upp í hugann frá svörum viðmælanda.
 
 ## Dagskrá/Tímalína
 - **00:00–00:05 Kynning:** Fundarstjóri býður þátttakendur velkomna, fer yfir markmið og dagskrá fundarins.
